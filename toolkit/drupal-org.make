@@ -6,19 +6,19 @@ projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc5"
 
 projects[admin_views][subdir] = "contrib"
-projects[admin_views][version] = "1.4"
+projects[admin_views][version] = "1.5"
 
 projects[apachesolr][subdir] = "contrib"
-projects[apachesolr][version] = "1.7"
+projects[apachesolr][version] = "1.8"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.7"
+projects[ctools][version] = "1.9"
 
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.16"
 
 projects[colorbox][subdir] = "contrib"
-projects[colorbox][version] = "2.8"
+projects[colorbox][version] = "2.10"
 
 projects[devel][subdir] = "contrib"
 projects[devel][version] = "1.5"
@@ -53,7 +53,7 @@ projects[google_analytics][subdir] = "contrib"
 projects[google_analytics][version] = "2.1"
 
 projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "2.6"
+projects[jquery_update][version] = "2.7"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.3"
@@ -98,7 +98,7 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.11"
 
 projects[views_bulk_operations][subdir] = "contrib"
-projects[views_bulk_operations][version] = "3.2"
+projects[views_bulk_operations][version] = "3.3"
 
 projects[views_bootstrap][subdir] = "contrib"
 projects[views_bootstrap][version] = "3.1"
