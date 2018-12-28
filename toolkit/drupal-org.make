@@ -76,7 +76,7 @@ projects[media_youtube][subdir] = "contrib"
 projects[media_youtube][version] = 3.0
 
 projects[mimemail][subdir] = "contrib"
-projects[mimemail][version] = 1.0-beta3
+projects[mimemail][version] = 1.1
 
 projects[module_filter][subdir] = "contrib"
 projects[module_filter][version] = 2.0
