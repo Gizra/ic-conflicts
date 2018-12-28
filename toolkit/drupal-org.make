@@ -3,13 +3,13 @@ api = 2
 
 ; Modules
 projects[admin_menu][subdir] = "contrib"
-projects[admin_menu][version] = "3.0-rc5"
+projects[admin_menu][version] = "3.0-rc6"
 
 projects[admin_views][subdir] = "contrib"
 projects[admin_views][version] = "1.6"
 
 projects[apachesolr][subdir] = "contrib"
-projects[apachesolr][version] = "1.8"
+projects[apachesolr][version] = "1.11"
 
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.16"
@@ -24,7 +24,7 @@ projects[devel][subdir] = "contrib"
 projects[devel][version] = "1.5"
 
 projects[diff][subdir] = "contrib"
-projects[diff][version] = "3.2"
+projects[diff][version] = "3.4"
 
 projects[email][subdir] = "contrib"
 projects[email][version] = "1.3"
@@ -70,7 +70,7 @@ projects[mandrill][subdir] = "contrib"
 projects[mandrill][version] = 2.0
 
 projects[media][subdir] = "contrib"
-projects[media][version] = 2.16
+projects[media][version] = 2.21
 
 projects[media_youtube][subdir] = "contrib"
 projects[media_youtube][version] = 3.0
@@ -106,7 +106,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.6"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.18"
+projects[views][version] = "3.20"
 
 projects[views_bootstrap][subdir] = "contrib"
 projects[views_bootstrap][version] = "3.1"
@@ -116,7 +116,7 @@ projects[views_bulk_operations][version] = "3.3"
 
 ; Themes
 projects[bootstrap][subdir] = "contrib"
-projects[bootstrap][version] = "3.8"
+projects[bootstrap][version] = "3.22"
 
 ; Libraries
 
